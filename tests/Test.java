@@ -31,7 +31,7 @@ class Test {
 
     public void gerarArrays(){
 
-        int[]a = new int[1+this.rand.nextInt(30)];
+        int[]a = new int[1+this.rand.nextInt(31)];
         for (int i = 0; i < a.length; i ++){
             a[i] = rand.nextInt(100);
         }
