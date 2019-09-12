@@ -1,11 +1,11 @@
 # Algoritmos-de-ordenacao
-Algoritmos de ordenação (arrays inteiros) aprendidos nas aulas de estrutura de dados e algoritmos 2019.2
+<b>Algoritmos de ordenação (arrays inteiros) aprendidos nas aulas de estrutura de dados e algoritmos 2019.2</b>
 
 * Projeto contém os seguintes algoritmos de ordenação:
- - Mergesort
- - Quicksort
- - Insertionsort recursivo
- - Selectionsort recursivo
+   Mergesort
+   Quicksort
+   Insertionsort recursivo
+   Selectionsort recursivo
  
 
 
